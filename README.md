@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-一名 前端开发工程师
+前端开发工程师
 <!--
 **980320/980320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
